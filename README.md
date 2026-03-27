@@ -2,7 +2,7 @@
 
 ### 🛠️ Industrial Maintenance | Software Engineering Student
 
-Sou um profissional de manutenção industrial com foco em elétrica e instrumentação, atualmente expandindo meus horizontes através da Engenharia de Software. Unindo o mundo físico da automação com o mundo digital do código.
+Sou um profissional de manutenção industrial com foco em elétrica, instrumentação e automação, atualmente expandindo meus horizontes através da Engenharia de Software. Unindo o mundo físico da automação com o mundo digital do código.
 
 ---
 
