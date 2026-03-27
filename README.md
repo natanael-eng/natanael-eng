@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Natanael Lira 👋
 
-<!--
-**natanael-eng/natanael-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Industrial Maintenance | Software Engineering Student
 
-Here are some ideas to get you started:
+Sou um profissional de manutenção industrial com foco em elétrica e instrumentação, atualmente expandindo meus horizontes através da Engenharia de Software. Unindo o mundo físico da automação com o mundo digital do código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Experiência & Foco
+* 🏗️ **Manutenção Industrial:** Atuação no setor de mineração (Alcoa), trabalhando com alta/baixa tensão, instrumentação e redes industriais (Profibus, fibra óptica).
+* 💻 **Software Engineering:** Estudante na UNINTER, desenvolvendo soluções em Python, SQLite e automação de processos.
+* 🤖 **Automação:** Interesse em pipelines CI/CD e integração de dados de ativos (Sistemas como AMPLA).
+
+### 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 Meus Projetos de Estudo
+* [meus-templates-automacao](https://github.com/natanael-eng/meus-templates-automacao) - Base para pipelines de teste e qualidade.
+
+---
+
+📫 **Como me encontrar:**
+[LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) | [E-mail](SEU_EMAIL_AQUI)
